@@ -1,0 +1,37 @@
+spring:
+  application:
+    name: smartshop-search
+  
+  profiles:
+    active: dev
+  
+  jpa:
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+  
+  sql:
+    init:
+      mode: always
+      continue-on-error: true
+
+server:
+  servlet:
+    context-path: /api
+
+logging:
+  level:
+    root: INFO
+    com.smartshop: DEBUG
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"
+
+app:
+  data:
+    load-on-startup: true
+  search:
+    explanation-limit: 5
+  image-storage:
+    local-root: data/product-images

@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Vertex UltraSlim 14\" Laptop",
+    "description": "A lightweight laptop designed for busy professionals who need portability without sacrificing performance. It features a bright display, fast SSD storage, and all-day battery life for meetings, travel, and creative work.",
+    "category": "electronics",
+    "price": 899.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/000.jpg"
+  },
+  {
+    "name": "AuroraAudio NoiseShield ANC Headphones",
+    "description": "These over-ear headphones deliver immersive sound with adaptive noise cancellation and a comfortable padded fit. The long battery life and foldable design make them ideal for commuting, flights, and focused listening.",
+    "category": "electronics",
+    "price": 179.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/001.jpg"
+  },
+  {
+    "name": "PulseTech Smart Fitness Watch",
+    "description": "A sleek smartwatch that tracks heart rate, sleep, steps, and workout intensity with accurate sensors. It also offers smartphone notifications, GPS, and water resistance for everyday training.",
+    "category": "electronics",
+    "price": 149.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/002.jpg"
+  },
+  {
+    "name": "StreamFlow 4K Streaming Stick",
+    "description": "This compact streaming device turns any TV into a smart entertainment hub with fast app loading and crystal-clear 4K playback. Built-in voice control and Wi-Fi support make navigation effortless.",
+    "category": "electronics",
+    "price": 59.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/003.jpg"
+  },
+  {
+    "name": "HyperDrive Portable SSD 2TB",
+    "description": "A rugged external solid-state drive with blazing-fast transfer speeds and durable shock resistance. It offers ample storage for photos, videos, games, and large work files on the go.",
+    "category": "electronics",
+    "price": 129.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/004.jpg"
+  },
+  {
+    "name": "ChargeHub Wireless Charging Pad",
+    "description": "This slim charging pad supports fast wireless charging for compatible phones and earbuds in a single convenient spot. Its non-slip surface and compact footprint fit cleanly on desks or nightstands.",
+    "category": "electronics",
+    "price": 39.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/005.jpg"
+  },
+  {
+    "name": "GlowWorks Smart LED Desk Lamp",
+    "description": "A modern desk lamp with adjustable brightness, color temperature control, and touch-sensitive settings. It helps reduce eye strain during late-night reading, study sessions, and remote work.",
+    "category": "electronics",
+    "price": 54.5,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/006.jpg"
+  },
+  {
+    "name": "EchoBeat Bluetooth Speaker",
+    "description": "A portable speaker with rich stereo sound, deep bass, and strong battery life for indoor and outdoor listening. Waterproof construction and easy pairing make it a reliable companion for travel and parties.",
+    "category": "electronics",
+    "price": 79.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/007.jpg"
+  },
+  {
+    "name": "VisionCast Webcam with AI Framing",
+    "description": "This high-definition webcam offers sharp video quality, built-in noise reduction, and intelligent face tracking for virtual meetings. It is ideal for content creators, remote teams, and online classes.",
+    "category": "electronics",
+    "price": 109.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/008.jpg"
+  },
+  {
+    "name": "RaptorGear Gaming Mouse",
+    "description": "A precision gaming mouse with adjustable DPI, low-latency sensors, and programmable buttons for competitive play. Its ergonomic shape and customizable RGB lighting make it comfortable for long sessions.",
+    "category": "electronics",
+    "price": 69.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/009.jpg"
+  },
+  {
+    "name": "Vertex Expandable Laptop Backpack",
+    "description": "A durable backpack with padded laptop compartments, hidden pockets, and weather-resistant fabric for daily commuting. It offers organized storage for chargers, notebooks, and travel essentials.",
+    "category": "accessories",
+    "price": 79.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/010.jpg"
+  },
+  {
+    "name": "HarborLeather Premium Leather Wallet",
+    "description": "Crafted from genuine leather, this wallet offers a slim profile with card slots, a bill compartment, and a secure coin pocket. Its refined finish and durable stitching make it a timeless everyday accessory.",
+    "category": "accessories",
+    "price": 49.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/011.jpg"
+  },
+  {
+    "name": "CableGrid Magnetic Cable Organizer",
+    "description": "This practical organizer keeps charging cables tidy with strong magnets and a compact, travel-friendly design. It helps reduce clutter on desks, bedside tables, and in bags.",
+    "category": "accessories",
+    "price": 14.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/012.jpg"
+  },
+  {
+    "name": "SolarShade UV Blocking Sunglasses",
+    "description": "These sunglasses feature polarized lenses that reduce glare while providing strong UV protection for bright days. The lightweight frame delivers comfort for driving, outdoor walks, and weekend trips.",
+    "category": "accessories",
+    "price": 34.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/013.jpg"
+  },
+  {
+    "name": "JetSet Travel Toiletry Kit",
+    "description": "A compact toiletry kit with water-resistant lining, multiple compartments, and a zippered closure for organized packing. It keeps essentials like skincare, grooming tools, and toiletries neatly contained.",
+    "category": "accessories",
+    "price": 24.5,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/014.jpg"
+  },
+  {
+    "name": "StandLite Minimalist Phone Stand",
+    "description": "Made from premium materials, this stand holds phones at an ergonomic viewing angle for video calls and entertainment. Its compact footprint makes it ideal for desks, kitchen counters, and bedside tables.",
+    "category": "accessories",
+    "price": 19.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/015.jpg"
+  },
+  {
+    "name": "AquaVault Waterproof Tech Pouch",
+    "description": "A sleek pouch designed to protect chargers, cables, power banks, and small devices from moisture and dust. Its secure zipper and compact shape make it perfect for travel and daily carry.",
+    "category": "accessories",
+    "price": 22.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/016.jpg"
+  },
+  {
+    "name": "DeskPro Adjustable Desk Organizer",
+    "description": "This organizer combines compartments for pens, notebooks, and accessories while keeping your workspace neat and efficient. The adjustable layout allows it to adapt to different work styles and storage needs.",
+    "category": "accessories",
+    "price": 29.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/017.jpg"
+  },
+  {
+    "name": "StrideCore Performance Running Jacket",
+    "description": "A lightweight jacket built for runners with breathable fabric, reflective accents, and a comfortable athletic fit. It offers protection from wind and light rain without feeling bulky during workouts.",
+    "category": "clothing",
+    "price": 59.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/018.jpg"
+  },
+  {
+    "name": "EverydayCotton Cotton Crewneck T-Shirt",
+    "description": "Made from soft cotton, this everyday T-shirt provides a relaxed fit and breathable comfort for casual wear. The durable fabric retains its shape after repeated washing and daily use.",
+    "category": "clothing",
+    "price": 24.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/019.jpg"
+  },
+  {
+    "name": "DenimFlex Stretch Denim Jeans",
+    "description": "These jeans combine classic style with flexible stretch fabric for all-day comfort and easy movement. The tailored cut and sturdy construction make them versatile for work, weekends, and evenings out.",
+    "category": "clothing",
+    "price": 49.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/020.jpg"
+  },
+  {
+    "name": "CloudWear Lightweight Hoodie",
+    "description": "A comfortable hoodie crafted from a soft brushed fabric that feels cozy without being too heavy. Its roomy fit and practical pockets make it a favorite for cool mornings and layering.",
+    "category": "clothing",
+    "price": 39.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/021.jpg"
+  },
+  {
+    "name": "WoolRidge Merino Wool Beanie",
+    "description": "This beanie is made from soft merino wool that provides warmth, moisture-wicking comfort, and a snug fit. It is an excellent choice for chilly commutes, winter hikes, and outdoor activities.",
+    "category": "clothing",
+    "price": 24.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/022.jpg"
+  },
+  {
+    "name": "FlexFlow Breathable Yoga Leggings",
+    "description": "Designed for flexibility and comfort, these leggings offer a soft feel and four-way stretch during movement. The high-waisted design and moisture-wicking fabric support yoga, pilates, and everyday wear.",
+    "category": "clothing",
+    "price": 34.5,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/023.jpg"
+  },
+  {
+    "name": "StrideCore Water-Resistant Shell Jacket",
+    "description": "This shell jacket is made for changing weather with a water-resistant outer layer and lightweight insulation. Its adjustable hood and zip pockets make it practical for travel and outdoor adventures.",
+    "category": "clothing",
+    "price": 89.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/024.jpg"
+  },
+  {
+    "name": "EverCore Soft Knit Sweater",
+    "description": "A polished sweater with a cozy knit texture and relaxed silhouette that works for layering in any season. The breathable fabric offers warmth without feeling heavy, making it ideal for both work and weekends.",
+    "category": "clothing",
+    "price": 54.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/025.jpg"
+  },
+  {
+    "name": "ZenStretch Yoga Mat",
+    "description": "A non-slip yoga mat with cushioned support for balance, stretching, and low-impact workouts. Its durable surface and lightweight roll-up design make it easy to carry to class or home practice.",
+    "category": "sports",
+    "price": 39.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/026.jpg"
+  },
+  {
+    "name": "PowerBands Resistance Band Set",
+    "description": "This set includes multiple bands with varying resistance levels for strength training, mobility work, and recovery. The portable design makes it easy to build a workout routine at home, in the office, or while traveling.",
+    "category": "sports",
+    "price": 24.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/027.jpg"
+  },
+  {
+    "name": "RecoveryRoll Foam Roller",
+    "description": "A high-density foam roller designed to improve muscle recovery, mobility, and circulation after workouts. Its textured surface helps target tight areas and support stretching routines.",
+    "category": "sports",
+    "price": 29.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/028.jpg"
+  },
+  {
+    "name": "IronPulse Dumbbell Set",
+    "description": "A compact dumbbell set with adjustable weights for strength training and progressive fitness goals. The ergonomic handles and space-saving design make home workouts simple and effective.",
+    "category": "sports",
+    "price": 79.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/029.jpg"
+  },
+  {
+    "name": "ThermaSip Insulated Water Bottle",
+    "description": "This double-wall insulated bottle keeps drinks cold or hot for hours while resisting condensation on the outside. The leak-proof lid and durable finish make it ideal for hikes, gym sessions, and commutes.",
+    "category": "sports",
+    "price": 22.5,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/030.jpg"
+  },
+  {
+    "name": "RideGrip Cycling Gloves",
+    "description": "These gloves provide a secure grip, padded palm protection, and breathable comfort for road biking and indoor cycling. The touchscreen-compatible fingertips let riders use devices without removing them.",
+    "category": "sports",
+    "price": 29.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/031.jpg"
+  },
+  {
+    "name": "EverCore Jump Rope",
+    "description": "A durable jump rope with adjustable length and comfortable handles for cardio, coordination, and interval training. It is lightweight enough for travel yet strong enough for daily workouts.",
+    "category": "sports",
+    "price": 16.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/032.jpg"
+  },
+  {
+    "name": "EverCore Tennis Racket",
+    "description": "A balanced racket designed for control, power, and comfort with a lightweight frame and responsive string pattern. It is suitable for casual players and those improving their technique on the court.",
+    "category": "sports",
+    "price": 89.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/033.jpg"
+  },
+  {
+    "name": "EverCore Stainless Steel Cookware Set",
+    "description": "A versatile cookware set featuring durable stainless steel construction, even heat distribution, and comfortable handles. It is ideal for everyday cooking, simmering sauces, and preparing family meals.",
+    "category": "kitchen",
+    "price": 149.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/034.jpg"
+  },
+  {
+    "name": "BrewMates Electric Kettle",
+    "description": "This kettle heats water quickly with adjustable temperature settings and an auto shut-off feature for safety. Its sleek design and cordless serving make it practical for tea, coffee, and instant meals.",
+    "category": "kitchen",
+    "price": 49.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/035.jpg"
+  },
+  {
+    "name": "EverCore Blender",
+    "description": "A powerful blender with multiple speed settings for smoothies, soups, sauces, and frozen drinks. The sturdy jar and strong motor make it suitable for daily meal prep and healthy living.",
+    "category": "kitchen",
+    "price": 89.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/036.jpg"
+  },
+  {
+    "name": "EverCore Food Processor",
+    "description": "This food processor simplifies chopping, slicing, and mixing with a large work bowl and sharp stainless steel blades. It saves time for baking, meal prep, and preparing fresh ingredients.",
+    "category": "kitchen",
+    "price": 129.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/037.jpg"
+  },
+  {
+    "name": "EverCore Cast Iron Skillet",
+    "description": "A pre-seasoned cast iron skillet that delivers excellent heat retention for searing, frying, and baking. Its durable construction makes it a long-lasting staple for stovetop and oven cooking.",
+    "category": "kitchen",
+    "price": 44.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/038.jpg"
+  },
+  {
+    "name": "EverCore Glass Storage Container Set",
+    "description": "This airtight container set helps keep pantry staples and leftovers fresh while making meal prep more organized. The clear glass body makes contents easy to identify and stack neatly in the fridge.",
+    "category": "kitchen",
+    "price": 34.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/039.jpg"
+  },
+  {
+    "name": "EverCore Coffee Grinder",
+    "description": "A compact coffee grinder with adjustable grind settings for espresso, pour-over, and French press brewing. The quiet motor and easy-clean design make it a great addition to any kitchen routine.",
+    "category": "kitchen",
+    "price": 59.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/040.jpg"
+  },
+  {
+    "name": "EverCore Precision Knife Set",
+    "description": "This knife set includes essential blades with sharp edges, balanced handles, and a storage block for convenience. It supports everything from chopping vegetables to slicing meats with control and precision.",
+    "category": "kitchen",
+    "price": 79.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/041.jpg"
+  },
+  {
+    "name": "EverCore Plant Protein Powder",
+    "description": "A smooth plant-based protein powder formulated with pea and rice protein for muscle recovery and daily nutrition. It mixes easily into shakes, oatmeal, and smoothies for a convenient boost after workouts.",
+    "category": "nutrition",
+    "price": 39.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/042.jpg"
+  },
+  {
+    "name": "EverCore Organic Green Superfood",
+    "description": "This superfood blend combines greens, adaptogens, and antioxidants in a convenient daily supplement. It is designed to support energy, digestion, and overall wellness with a simple serving.",
+    "category": "nutrition",
+    "price": 29.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/043.jpg"
+  },
+  {
+    "name": "EverCore Electrolyte Hydration Mix",
+    "description": "A refreshing hydration mix with electrolytes and minerals to replenish fluids lost during exercise or heat exposure. It helps support endurance, recovery, and everyday hydration with a low-sugar formula.",
+    "category": "nutrition",
+    "price": 17.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/044.jpg"
+  },
+  {
+    "name": "EverCore Omega-3 Fish Oil",
+    "description": "These omega-3 softgels provide essential fatty acids that support heart, brain, and joint health. The purified formula is designed for consistent daily use with a simple one-capsule serving.",
+    "category": "nutrition",
+    "price": 24.5,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/045.jpg"
+  },
+  {
+    "name": "EverCore Prebiotic Fiber Supplement",
+    "description": "A gentle fiber supplement that supports digestive balance, regularity, and gut health with prebiotic ingredients. It is easy to mix into water, smoothies, or yogurt as part of a daily wellness routine.",
+    "category": "nutrition",
+    "price": 21.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/046.jpg"
+  },
+  {
+    "name": "EverCore Protein Snack Box",
+    "description": "A curated assortment of protein-rich snacks featuring nuts, bars, and savory bites for busy days. It offers a convenient way to stay fueled at work, during travel, or after exercise.",
+    "category": "nutrition",
+    "price": 26.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/047.jpg"
+  },
+  {
+    "name": "EverCore Collagen Peptides",
+    "description": "Unflavored collagen peptides designed to support skin elasticity, joint comfort, and healthy hair and nails. The powder dissolves easily into coffee, tea, or smoothies for everyday use.",
+    "category": "nutrition",
+    "price": 34.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/048.jpg"
+  },
+  {
+    "name": "EverCore Vitamin D3 + K2",
+    "description": "A daily supplement combining vitamin D3 and vitamin K2 to support bone strength, immune function, and overall wellness. Its convenient capsule format fits easily into a structured supplement routine.",
+    "category": "nutrition",
+    "price": 19.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/049.jpg"
+  },
+  {
+    "name": "PortLink Smart Home Hub",
+    "description": "This voice-controlled hub connects lights, thermostats, and security devices into one intuitive home automation system. It offers fast setup, reliable scheduling, and seamless control from a phone or tablet.",
+    "category": "electronics",
+    "price": 89.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/050.jpg"
+  },
+  {
+    "name": "EverCore Portable Projector",
+    "description": "A compact projector with bright image output and built-in speakers for movies, presentations, and gaming on the go. Its lightweight body and easy wireless streaming make it ideal for travel and home entertainment.",
+    "category": "electronics",
+    "price": 249.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/051.jpg"
+  },
+  {
+    "name": "ClickTech Mechanical Keyboard",
+    "description": "This keyboard features tactile switches, programmable macro keys, and durable construction for fast typing and gaming. The compact layout and customizable lighting deliver both style and performance.",
+    "category": "electronics",
+    "price": 119.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/052.jpg"
+  },
+  {
+    "name": "EverCore Wireless Earbuds",
+    "description": "These earbuds provide crisp audio, secure fit, and long battery life for calls, workouts, and podcasts. Noise isolation and touch controls make them convenient for everyday listening.",
+    "category": "electronics",
+    "price": 99.5,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/053.jpg"
+  },
+  {
+    "name": "EverCore Tablet Pro",
+    "description": "A responsive tablet with a vibrant display, fast processor, and stylus compatibility for work and creativity. It is great for note-taking, streaming, reading, and light productivity tasks.",
+    "category": "electronics",
+    "price": 649.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/054.jpg"
+  },
+  {
+    "name": "ViewMax External Monitor",
+    "description": "A slim external monitor offering sharp resolution, adjustable stand support, and wide viewing angles for multitasking. It helps home office users and creators work more comfortably and efficiently.",
+    "category": "electronics",
+    "price": 229.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/055.jpg"
+  },
+  {
+    "name": "LensPro Digital Camera",
+    "description": "This camera delivers crisp photos, optical zoom, and intuitive controls for travel, portraits, and everyday moments. Its compact body makes it easy to carry while still offering professional-level features.",
+    "category": "electronics",
+    "price": 499.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/056.jpg"
+  },
+  {
+    "name": "EverCore Robot Vacuum",
+    "description": "A smart robot vacuum with obstacle sensing, app control, and strong suction for keeping floors clean with minimal effort. It handles pet hair, crumbs, and dust while navigating efficiently around furniture.",
+    "category": "electronics",
+    "price": 299.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/057.jpg"
+  },
+  {
+    "name": "EverCore Air Purifier",
+    "description": "This air purifier uses a quiet fan and multi-layer filtration system to improve indoor air quality. It helps reduce allergens, odors, and dust in bedrooms, offices, and shared spaces.",
+    "category": "electronics",
+    "price": 129.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/058.jpg"
+  },
+  {
+    "name": "LensPro Home Security Camera",
+    "description": "A weather-resistant security camera with night vision and motion alerts for added peace of mind. It is easy to install and supports remote viewing from a smartphone app.",
+    "category": "electronics",
+    "price": 79.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/059.jpg"
+  },
+  {
+    "name": "EverCore E-Reader",
+    "description": "A lightweight e-reader with a paper-like display and long battery life for books, magazines, and documents. Its glare-free screen and compact size make reading comfortable anywhere.",
+    "category": "electronics",
+    "price": 149.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/060.jpg"
+  },
+  {
+    "name": "EverCore Mini PC",
+    "description": "A compact mini PC that delivers reliable performance for browsing, office work, media streaming, and light creative tasks. Its small footprint saves desk space without compromising everyday convenience.",
+    "category": "electronics",
+    "price": 549.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/061.jpg"
+  },
+  {
+    "name": "EverCore Power Bank",
+    "description": "This high-capacity power bank offers fast charging and multiple output ports for phones, tablets, and accessories. Its slim profile and durable shell make it dependable for travel and emergencies.",
+    "category": "electronics",
+    "price": 59.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/062.jpg"
+  },
+  {
+    "name": "EverCore USB-C Dock",
+    "description": "A versatile USB-C dock expands a laptop into a full workstation with HDMI, Ethernet, and extra USB ports. It simplifies setup for remote work, presentations, and media connections.",
+    "category": "electronics",
+    "price": 109.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/063.jpg"
+  },
+  {
+    "name": "EverCore Gaming Headset",
+    "description": "A surround-sound gaming headset with a comfortable over-ear design and clear microphone for voice chat. It offers immersive audio and reliable performance for gaming and streaming.",
+    "category": "electronics",
+    "price": 89.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/064.jpg"
+  },
+  {
+    "name": "EverCore Silk Sleep Mask",
+    "description": "This soft sleep mask blocks light gently while feeling smooth and comfortable against the skin. It is ideal for travel, naps, and improving rest in bright environments.",
+    "category": "accessories",
+    "price": 19.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/065.jpg"
+  },
+  {
+    "name": "EverCore Reusable Grocery Tote",
+    "description": "A sturdy tote bag with reinforced handles and roomy interior space for groceries, books, and daily essentials. Its washable fabric makes it practical for errands and sustainable shopping.",
+    "category": "accessories",
+    "price": 14.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/066.jpg"
+  },
+  {
+    "name": "EverCore Car Phone Mount",
+    "description": "This mount keeps a phone securely visible for navigation and calls while driving. Its adjustable grip and compact profile make it easy to install and remove.",
+    "category": "accessories",
+    "price": 24.5,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/067.jpg"
+  },
+  {
+    "name": "EverCore Travel Neck Pillow",
+    "description": "A supportive neck pillow with memory foam fill that helps reduce strain on long trips or flights. Its soft cover and compact shape make it easy to pack and carry.",
+    "category": "accessories",
+    "price": 29.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/068.jpg"
+  },
+  {
+    "name": "EverCore Keychain Multi-Tool",
+    "description": "This compact multitool includes useful functions for everyday fixes, outdoor adventures, and emergency situations. Its durable construction and portable size make it a handy carry-along accessory.",
+    "category": "accessories",
+    "price": 16.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/069.jpg"
+  },
+  {
+    "name": "EverCore Compact Umbrella",
+    "description": "A wind-resistant umbrella with a small foldable frame that fits easily in bags and backpacks. It provides reliable protection from rain and unexpected showers.",
+    "category": "accessories",
+    "price": 21.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/070.jpg"
+  },
+  {
+    "name": "ThermaSip Bottle Sling",
+    "description": "This sling keeps a water bottle within reach while hiking, commuting, or walking around the city. The adjustable strap and padded design add comfort and convenience.",
+    "category": "accessories",
+    "price": 17.5,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/071.jpg"
+  },
+  {
+    "name": "EverCore Screen Cleaning Kit",
+    "description": "A complete cleaning kit with microfiber cloths and spray for wipes, tablets, monitors, and glasses. It helps remove fingerprints and dust without leaving streaks or damage.",
+    "category": "accessories",
+    "price": 12.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/072.jpg"
+  },
+  {
+    "name": "EverCore Performance Shorts",
+    "description": "These shorts offer breathable fabric, a comfortable elastic waistband, and lightweight construction for workouts and warm-weather wear. Their quick-dry feel makes them great for running, gym sessions, and travel.",
+    "category": "clothing",
+    "price": 29.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/073.jpg"
+  },
+  {
+    "name": "EverCore Linen Button-Up Shirt",
+    "description": "A polished linen shirt with a relaxed fit and airy texture that works for casual days and smart occasions. It stays breathable in warm weather while offering timeless style.",
+    "category": "clothing",
+    "price": 44.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/074.jpg"
+  },
+  {
+    "name": "EverCore Thermal Base Layer",
+    "description": "This base layer provides warmth, moisture management, and a snug fit for cold weather activity. It layers easily under jackets or sweaters for outdoor adventures.",
+    "category": "clothing",
+    "price": 34.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/075.jpg"
+  },
+  {
+    "name": "EverCore Casual Chinos",
+    "description": "These chinos offer a tailored look with soft stretch fabric for everyday comfort. The durable material makes them suitable for work, weekend plans, and travel.",
+    "category": "clothing",
+    "price": 39.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/076.jpg"
+  },
+  {
+    "name": "EverCore Fleece Zip-Up",
+    "description": "A cozy fleece layer designed for comfort and warmth without feeling bulky. The zip-up style makes it easy to wear over shirts or under a jacket.",
+    "category": "clothing",
+    "price": 49.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/077.jpg"
+  },
+  {
+    "name": "EverCore Running Cap",
+    "description": "A lightweight running cap with breathable fabric and a secure fit for training or outdoor activities. It helps shield the eyes from sun while staying comfortable through long runs.",
+    "category": "clothing",
+    "price": 19.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/078.jpg"
+  },
+  {
+    "name": "EverCore Puffer Vest",
+    "description": "This quilted vest offers light insulation and a streamlined shape for layering in cooler weather. Its zip pockets and easy fit make it suitable for casual wear and travel.",
+    "category": "clothing",
+    "price": 54.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/079.jpg"
+  },
+  {
+    "name": "EverCore Knit Cardigan",
+    "description": "A soft cardigan with a relaxed drape and button-front design that layers easily over tops or dresses. It adds warmth and polished comfort for workdays and evenings out.",
+    "category": "clothing",
+    "price": 59.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/080.jpg"
+  },
+  {
+    "name": "EverCore Balance Board",
+    "description": "A balance board that helps improve stability, posture, and core strength through controlled movement. It is a practical addition to home workouts and mobility routines.",
+    "category": "sports",
+    "price": 59.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/081.jpg"
+  },
+  {
+    "name": "EverCore Hand Grip Strengthener",
+    "description": "This compact grip trainer offers adjustable resistance for strengthening wrists, hands, and forearms. It fits easily in a bag and supports daily exercise routines.",
+    "category": "sports",
+    "price": 14.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/082.jpg"
+  },
+  {
+    "name": "StrideX Trail Running Shoes",
+    "description": "These trail shoes provide cushioning, grip, and support for uneven terrain and outdoor runs. Their durable outsole and breathable upper help keep feet comfortable on long adventures.",
+    "category": "sports",
+    "price": 89.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/083.jpg"
+  },
+  {
+    "name": "EverCore Bicycle Helmet",
+    "description": "A lightweight bicycle helmet with impact protection, adjustable straps, and ventilation ports for comfort. It is suitable for commuting, weekend rides, and family cycling outings.",
+    "category": "sports",
+    "price": 49.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/084.jpg"
+  },
+  {
+    "name": "EverCore Fitness Ball",
+    "description": "A durable fitness ball designed for core workouts, stretching, and posture training. Its anti-burst construction makes it a safe and practical home exercise tool.",
+    "category": "sports",
+    "price": 29.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/085.jpg"
+  },
+  {
+    "name": "ThermaSip Sports Bottle",
+    "description": "This reusable sports bottle offers a secure lid, easy-carry handle, and leak-resistant design for hydration on the move. It is great for gym sessions, hikes, and busy workdays.",
+    "category": "sports",
+    "price": 15.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/086.jpg"
+  },
+  {
+    "name": "EverCore Recovery Knee Sleeve",
+    "description": "A compression knee sleeve that supports comfort and stability during workouts or recovery sessions. The breathable fabric helps reduce strain while remaining flexible for movement.",
+    "category": "sports",
+    "price": 24.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/087.jpg"
+  },
+  {
+    "name": "EverCore Portable Bench",
+    "description": "A foldable bench with a sturdy frame that supports strength training, stretching, and bodyweight exercises. Its compact size makes it easy to store in a small home gym.",
+    "category": "sports",
+    "price": 119.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/088.jpg"
+  },
+  {
+    "name": "EverCore Air Fryer",
+    "description": "This air fryer cooks food quickly with hot air circulation for crisp results using less oil. It is ideal for roasting vegetables, reheating leftovers, and preparing quick meals.",
+    "category": "kitchen",
+    "price": 99.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/089.jpg"
+  },
+  {
+    "name": "EverCore Rice Cooker",
+    "description": "A convenient rice cooker with programmable settings and a keep-warm function for perfectly cooked grains. It simplifies meal prep for rice, soups, and steamed dishes.",
+    "category": "kitchen",
+    "price": 49.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/090.jpg"
+  },
+  {
+    "name": "EverCore Espresso Maker",
+    "description": "This compact espresso maker delivers rich coffee with simple controls and a milk frother for caf\u00e9-style drinks. Its space-saving design fits well in small kitchens and apartments.",
+    "category": "kitchen",
+    "price": 79.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/091.jpg"
+  },
+  {
+    "name": "EverCore Sandwich Press",
+    "description": "A nonstick sandwich press creates crisp toasted sandwiches, paninis, and melts with even heat distribution. It is easy to clean and great for quick breakfasts or lunches.",
+    "category": "kitchen",
+    "price": 39.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/092.jpg"
+  },
+  {
+    "name": "ZenStretch Silicone Baking Mat",
+    "description": "A reusable silicone baking mat that provides a nonstick surface for cookies, pastries, and roasted snacks. It helps reduce mess and makes cleanup faster in the kitchen.",
+    "category": "kitchen",
+    "price": 14.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/093.jpg"
+  },
+  {
+    "name": "EverCore Ice Cream Maker",
+    "description": "This ice cream maker churns frozen treats at home with a simple operation and easy-clean bowl. It is perfect for making desserts, sorbet, and custom flavors for family gatherings.",
+    "category": "kitchen",
+    "price": 69.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/094.jpg"
+  },
+  {
+    "name": "EverCore Cranberry Gummies",
+    "description": "These cranberry gummies combine fruity flavor with everyday wellness support for a convenient supplement option. They offer a tasty alternative to capsules for daily nutrition routines.",
+    "category": "nutrition",
+    "price": 18.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/095.jpg"
+  },
+  {
+    "name": "ZenStretch Green Tea Matcha",
+    "description": "A smooth matcha powder made for lattes, smoothies, and mindful daily routines. It provides a gentle energy boost and a rich source of antioxidants in an easy-to-use format.",
+    "category": "nutrition",
+    "price": 24.95,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/096.jpg"
+  },
+  {
+    "name": "EverCore Daily Multivitamin",
+    "description": "A balanced multivitamin designed to support daily nutrition with essential vitamins and minerals. Its easy-to-take formula fits naturally into busy routines and wellness plans.",
+    "category": "nutrition",
+    "price": 22.5,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/097.jpg"
+  },
+  {
+    "name": "EverCore Probiotic Capsules",
+    "description": "These probiotic capsules support digestive health and everyday balance with a shelf-stable formula. They are simple to take and convenient for maintaining a regular wellness routine.",
+    "category": "nutrition",
+    "price": 23.99,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/098.jpg"
+  },
+  {
+    "name": "EverCore Recovery Shake Mix",
+    "description": "A creamy recovery shake mix crafted with protein, vitamins, and minerals to support post-workout nourishment. It blends easily into water or milk for a quick and satisfying boost.",
+    "category": "nutrition",
+    "price": 31.0,
+    "imageUrl": "C:/Users/jeffr/Documents/RAG_SEARCH/SmartShop-Search/data/product-images/099.jpg"
+  }
+]

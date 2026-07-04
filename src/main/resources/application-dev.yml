@@ -1,0 +1,36 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/smartshop
+    username: smartshop_user
+    password: Jeff13$$
+    driver-class-name: org.postgresql.Driver
+  
+  jpa:
+    hibernate:
+      ddl-auto: validate
+
+server:
+  port: 8080
+
+app:
+  embedding:
+    text-endpoint: http://localhost:8000/embed
+    text-timeout-seconds: 30
+    text-max-length: 512
+    image-endpoint: http://localhost:8001/embed-image
+    image-timeout-seconds: 60
+  
+  ollama:
+    endpoint: http://localhost:11434/api/generate
+    model: llama3.2
+    timeout-seconds: 60
+  
+  s3:
+    bucket: smartshop-search-dev
+    region: us-east-1
+  image-storage:
+    local-root: data/product-images
+  
+  data:
+    load-on-startup: true
+    products-file: data/products.updated.json
